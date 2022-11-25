@@ -1,0 +1,18 @@
+OSU
+the Ohio State University
+
+term
+a word
+ whose
+ definition 
+is in 
+a glossary 
+
+word
+a string 
+of characters
+ in 
+a language
+, which has
+ at least one character 
+
